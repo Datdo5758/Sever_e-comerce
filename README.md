@@ -2,8 +2,8 @@
 - This is a server project for e-commerce sales website
 - Use express nodejs
 - store data in mongodb and deploy for free using render
-# Main fuction
-
+  
+# Main function
 1. **View Products and Buy**: Users can view product lists and choose to buy products they are interested in.
 
 2. **Check Stock Quantity in MongoDB**: The project will check stock quantity in the MongoDB database to process purchase orders and ensure that there is no negative inventory.
